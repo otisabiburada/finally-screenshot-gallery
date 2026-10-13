@@ -1,0 +1,14 @@
+{
+  "name": "Screenshot Gallery",
+  "author": "SANSO",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "library",
+      "utility"
+    ],
+    "description": "Browse, sort, filter, group into albums, edit and share your Steam screenshots from Gaming Mode: send to your phone, share as artwork or to the Steam Community. Never deletes anything.",
+    "image": ""
+  }
+}
